@@ -1,0 +1,3 @@
+Czasy i koszty wzorcowego rozwiązania:
+ - construct_optimal_tree: koszt 11, czas niezauważalny (około 0.001s).
+ - construct_approximate_tree: koszt 11, czas niezauważalny (około 0.001s).

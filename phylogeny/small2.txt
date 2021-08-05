@@ -1,0 +1,5 @@
+Czasy i koszty wzorcowego rozwiązania:
+ - construct_optimal_tree: koszt 17, czas niezauważalny (około 0.02s).
+ - construct_approximate_tree: koszt 17-25, czas niezauważalny (około 0.02s).
+ 
+ Przykład filtrowania z treści zadania.

@@ -1,0 +1,9 @@
+Czasy i koszty wzorcowego rozwiązania:
+ - construct_optimal_tree: koszt 730, czas około 18 sekund.
+ - construct_approximate_tree: koszt 800-900, czas około 7 sekund.
+
+Opis testu: 61 sekwencji. Pierwsza jest losową sekwencją długości 60.
+Każda z kolejnych 30 jest losową mutacją poprzedniej (dodanie, usunięcie lub podmiana trzech znaków).
+Cała reszta to sekwencja numer 31 poddana dziesięciu losowym mutacjom.
+
+Każda próbka losowo przypisana do Polski lub Hiszpanii.

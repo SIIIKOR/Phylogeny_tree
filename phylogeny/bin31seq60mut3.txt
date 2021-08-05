@@ -1,0 +1,9 @@
+Czasy i koszty wzorcowego rozwiązania:
+ - construct_optimal_tree: koszt 72, czas około 4-6 sekund.
+ - construct_approximate_tree: koszt 72-90, czas około 2-4 sekund.
+
+Opis testu: 31 sekwencji, test skonstruowany jako pełne drzewo binarne.
+W korzeniu jest losowa sekwencja długości 60, każda krawędź to losowo wybrana mutacja na trzech sąsiednich znakach
+(dodanie, usunięcie lub podmiana trzech znaków), w losowym miejscu sekwencji rodzica.
+
+Każda próbka losowo przypisana do Polski lub Hiszpanii.

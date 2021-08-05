@@ -1,0 +1,7 @@
+Czasy i koszty wzorcowego rozwiązania:
+ - construct_optimal_tree: koszt 1023, czas około 30 sekund.
+ - construct_approximate_tree: koszt około 2000, czas około 1 sekundy.
+
+Opis testu: wszystkie możliwe sekwencje długości 5 (1024 sekwencje).
+
+Każda próbka losowo przypisana do Polski lub Hiszpanii.

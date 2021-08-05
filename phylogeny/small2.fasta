@@ -1,0 +1,24 @@
+>Root|China|2019-2-3
+AAAAAAAA
+>Child 1|China|2019-10-1
+AAAAAA
+>Child 2|Greenland|2019-10-15
+AAAAAAAAGGG
+>Child 3|Greenland|2019-10-16
+CCCCAAAAAAA
+>Grandchild 1|Greenland|2019-12-20
+TAAAAAA
+>Grandchild 2|China|2019-12-21
+AAAAAAT
+>Grandchild 3|China|2019-12-22
+AAAAAAAGGG
+>Grandchild 4|Greenland|2019-12-23
+TCCCCAAAAAAA
+>Greatgrandchild 1|Greenland|2020-2-3
+TAAAGAAA
+>Greatgrandchild 2|Greenland|2020-3-4
+TGAAAAAA
+>Greatgrandchild 3|Greenland|2020-9-10
+AAAAAAAGG
+>Greatgrandchild 4|Greenland|2020-10-11
+AAACAAAGGG
